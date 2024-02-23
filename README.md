@@ -93,10 +93,10 @@
         <!-- Date Accessed 20240214-->
     </blockquote>
     <p>
-        <strong>"Getting information off the Internet is like taking a drink from a firehose."</strong>
-        <em>- Mitch Kapor</em>
+        <strong>"Don't stop when you're tired stop it when you done it."</strong>
+        <em>-Mosilyn Monsoe</em>
     </p>
-    <p>&copy Mark Mercer, powered by MercersKitchen in GitHub</p>
+    <p>&copy Lulia Hailemariam, powered by Lulia18 in GitHub</p>
     <!-- Other information possilbe like Number of Visitor, Location, author contract information-->
 </footer>
 </html>
