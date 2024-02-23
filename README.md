@@ -30,46 +30,39 @@
             box-sizing: border-box;
             font-size: 2vw;
         }
-        div { //border: thin dotted red; }
+        div { border: thin dotted red; }
 
-        header {
+        .header {
             border: 1px solid green;
             padding: 15px;
             font-size: 4vw;
         }
 
-        nav {
+        .nav {
             width: 25%;
             float: left;
             padding: 15px;
             border: 1px solid rgb(19, 0, 128);
         }
 
-        main {
+        .main {
             width: 50%;
             float: left;
             padding: 15px;
             border: 1px solid rgb(19, 0, 128);
         }
 
-        aside {
+        .aside {
             width: 25%;
             float: left;
             padding: 15px;
             border: 1px solid rgb(19, 0, 128);
         }
 
-        footer {
+        .footer {
             padding: 15px;
             border: 1px solid rgb(19, 0, 128);
         }
-
-        section {
-        }
-
-        article {
-        }
-
 
     </style>
 
@@ -80,23 +73,23 @@
 <!-- Start here, BODY Semantic Tags-->
 <body>
     <div>This is a Division</div>
-    <header>Header</header>
-    <nav>Navigation</nav>
-    <main>MAIN: Important Material</main>
-    <aside>Aside Space, supports MAIN Material</aside>
-    <section>Section</section>
-    <article>Article, Mostly text</article>
-    <footer>Footer</footer>
+    <header class="header">Header</header>
+    <nav class="nav">Navigation</nav>
+    <main class="main">MAIN: Important Material</main>
+    <aside class="class">Aside Space, supports MAIN Material</aside>
+    <section class="main">Section</section>
+    <article class="main">Article, Mostly text</article>
+    <footer calss="footer">Footer</footer>
 </body>
 <footer>
     <blockquote cite="">
         <!-- Date Accessed 20240214-->
     </blockquote>
     <p>
-        <strong>"Don't stop when you're tired stop it when you done it."</strong>
-        <em>-Mosilyn Monsoe</em>
+        <strong>"Getting information off the Internet is like taking a drink from a firehose."</strong>
+        <em>- Mitch Kapor</em>
     </p>
-    <p>&copy Lulia Hailemariam, powered by Lulia18 in GitHub</p>
+    <p>&copy Mark Mercer, powered by MercersKitchen in GitHub</p>
     <!-- Other information possilbe like Number of Visitor, Location, author contract information-->
 </footer>
 </html>
