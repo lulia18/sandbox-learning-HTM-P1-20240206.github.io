@@ -73,8 +73,26 @@
 <!-- Start here, BODY Semantic Tags-->
 <body>
     <div>This is a Division</div>
-    <header class="header">Header</header>
-    <nav class="nav">Navigation</nav>
+    <header class="header"></header>
+          <h1>Experiemental Page: Header and Paragraph Tags</h1>
+        <h1>H1: text</h1>
+        <h2>H2: text</h2>
+        <h3>H3: text</h3>
+        <h4>H4: text</h4>
+        <h5>H5: text</h5>
+        <h6>H6: text</h6>
+        <h7>H7: text</h7>
+    </header>
+    <nav class="nav">
+        Navigation H-Tags 
+        H1: text
+        H2: text
+        H3: text
+        H4: text
+        H5: text
+        H6: text
+        H7: text
+    </nav>
     <main class="main">MAIN: Important Material</main>
     <aside class="class">Aside Space, supports MAIN Material</aside>
     <section class="main">Section</section>
