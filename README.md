@@ -74,7 +74,7 @@
 <body>
     <div>This is a Division</div>
     <header class="header"></header>
-          <h1>Experiemental Page: Header and Paragraph Tags</h1>
+        <h1>Experiemental Page: Header and Paragraph Tags</h1>
         <h1>H1: text</h1>
         <h2>H2: text</h2>
         <h3>H3: text</h3>
